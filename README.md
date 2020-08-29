@@ -10,4 +10,4 @@ pip install bootstrap3
 pip install misaka
 ```
 This is what the home page looks like:
-<img src="https://github.com/jikaizhang/Movie-Fans-Society/blob/master/HomePage.jpg">
+<img src="https://github.com/jikaizhang/Movie-Fans-Society/blob/master/Homepage.jpg">
